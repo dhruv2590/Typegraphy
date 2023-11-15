@@ -1,0 +1,29 @@
+                                .data {
+                                    text-align: center;
+                                    width: 90%;
+                                    height: 50;
+                                    font-size: 24px;
+                                }
+                                
+                                #image {
+                                    text-align: center;
+                                }
+                                
+                                p {
+                                    color: rgba(0, 0, 0, 0.6);
+                                    display: block;
+                                    padding: 2px;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                    width: 25em;
+                                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                                }
+                                
+                                iframe {
+                                    display: block;
+                                    padding: 2px;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                    width: 25%;
+                                    height: 280px;
+                                }
